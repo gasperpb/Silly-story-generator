@@ -1,6 +1,6 @@
 # Silly-story-generator
 
-##Estudando  javascript criando um gerador de historias
+##Estudando  javascript criando um gerador de historias##
 
 Estou usando a documentação do Mozilla Mdn.
 
